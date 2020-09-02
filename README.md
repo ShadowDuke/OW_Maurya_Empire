@@ -1,4 +1,4 @@
-## Maurya
+## [Maurya](https://github.com/ShadowDuke/OW_Maurya_Empire/wiki)
 
 - Leader: Ashoka [HERO] (wife; Kaurvaki, 2 sons; Tivara & Kunala, 1 dauther; Charumati, Half-Brother; Susima, Father; Bindusara)
 - Nation: Multiple Workers can build Improvements, +2 Culture per Unit killed & +1 Growth per City per Year - [All Cities] +2 Training/Year, +35% Growth & +20% Civics
