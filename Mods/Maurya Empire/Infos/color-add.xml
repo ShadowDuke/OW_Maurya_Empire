@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Entry>
+		<zType>COLOR_NATION_MAURYA</zType>
+		<zName>Maurya</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#4bd452</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_MAURYA_TEXT</zType>
+		<zName>Maurya Text</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#4bd452</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_MAURYA_FAMILY_01</zType>
+		<zName>Maurya Family 1</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#bbd44b</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_MAURYA_FAMILY_01_TEXT</zType>
+		<zName>Maurya Family 1 Text</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#bbd44b</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_MAURYA_FAMILY_02</zType>
+		<zName>Maurya Family 2</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#c1f9d8</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_MAURYA_FAMILY_02_TEXT</zType>
+		<zName>Maurya Family 2 Text</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#c1f9d8</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_MAURYA_FAMILY_03</zType>
+		<zName>Maurya Family 3</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#3f628d</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_MAURYA_FAMILY_03_TEXT</zType>
+		<zName>Maurya Family 3 Text</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#3f628d</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_MAURYA_FAMILY_04</zType>
+		<zName>Maurya Family 4</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#ffeaaa</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_MAURYA_FAMILY_04_TEXT</zType>
+		<zName>Maurya Family 4 Text</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#ffeaaa</zHexValue>
+	</Entry>
+</Root>

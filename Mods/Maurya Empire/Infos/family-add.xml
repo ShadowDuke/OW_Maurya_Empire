@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<Entry>
+		<zType>FAMILY_ASSAKAS</zType>
+		<Name>TEXT_FAMILY_ASSAKAS</Name>
+		<NameFemale>TEXT_FAMILY_ASSAKAS</NameFemale>
+		<iColorIndex>0</iColorIndex>
+		<Nation>NATION_MAURYA</Nation>
+		<FamilyClass>FAMILYCLASS_CLERICS</FamilyClass>
+	</Entry>
+	<Entry>
+		<zType>FAMILY_SHAKYAS</zType>
+		<Name>TEXT_FAMILY_SHAKYAS</Name>
+		<NameFemale>TEXT_FAMILY_SHAKYAS</NameFemale>
+		<iColorIndex>1</iColorIndex>
+		<Nation>NATION_MAURYA</Nation>
+		<FamilyClass>FAMILYCLASS_CHAMPIONS</FamilyClass>
+	</Entry>
+	<Entry>
+		<zType>FAMILY_IKSHVAKUS</zType>
+		<Name>TEXT_FAMILY_IKSHVAKUS</Name>
+		<NameFemale>TEXT_FAMILY_IKSHVAKUS</NameFemale>
+		<iColorIndex>2</iColorIndex>
+		<Nation>NATION_MAURYA</Nation>
+		<FamilyClass>FAMILYCLASS_PATRONS</FamilyClass>
+	</Entry>
+	<Entry>
+		<zType>FAMILY_VIVASVANAS</zType>
+		<Name>TEXT_FAMILY_VIVASVANAS</Name>
+		<NameFemale>TEXT_FAMILY_VIVASVANAS</NameFemale>
+		<iColorIndex>3</iColorIndex>
+		<Nation>NATION_MAURYA</Nation>
+		<FamilyClass>FAMILYCLASS_SAGES</FamilyClass>
+	</Entry>
+</Root>

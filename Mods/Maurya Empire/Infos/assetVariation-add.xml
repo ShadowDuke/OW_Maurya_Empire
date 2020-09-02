@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+  <Entry>
+    <zType>ASSET_VARIATION_CITY_MAURYA_CAPITAL</zType>
+    <aiValidRotations>0</aiValidRotations>
+    <SingleAsset>ASSET_CITY_BABYLONIA_CAPITAL</SingleAsset>
+  </Entry>
+  <Entry>
+    <zType>ASSET_VARIATION_MAURYA_URBAN</zType>
+    <aiValidRotations>0</aiValidRotations>
+    <SingleAsset>ASSET_BABYLONIA_URBAN</SingleAsset>
+  </Entry>
+</Root>

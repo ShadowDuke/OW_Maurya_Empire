@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ModInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <description>Maurya Empire</description>
+  <modpicture>MauryaEmpire.jpg</modpicture>
+  <author>Revan/ShadowDuke</author>
+  <modioID>156667</modioID>
+  <modioFileID>193808</modioFileID>
+  <modversion>0.9</modversion>
+  <singlePlayer>true</singlePlayer>
+  <multiplayer>true</multiplayer>
+</ModInfo>

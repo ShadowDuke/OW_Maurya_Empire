@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2018 sp1 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
+<Root>
+	<Entry>
+		<zType>TEXT_FAMILY_ASSAKAS</zType>
+		<English>Assakas~Assakasians~Assakasid</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILY_SHAKYAS</zType>
+		<English>Shakyas~Shakyansians~Shakyasid</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILY_IKSHVAKUS</zType>
+		<English>Ikshvakus~Ikshvakusians~Ikshvakusid</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILY_VIVASVANAS</zType>
+		<English>Vivasvanas~Vivasvanasians~Vivasvanasid</English>
+	</Entry>
+</Root>

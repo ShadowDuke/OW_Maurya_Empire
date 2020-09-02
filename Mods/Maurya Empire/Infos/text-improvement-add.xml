@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_LAKSHMI</zType>
+		<English>Shrine of Lakshmi</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_RAMA</zType>
+		<English>Shrine of Rama</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_KRISHNA</zType>
+		<English>Shrine of Krishna</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_SARASWATI</zType>
+		<English>Shrine of Saraswati</English>
+	</Entry>
+</Root>
