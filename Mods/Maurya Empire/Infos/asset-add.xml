@@ -1,4 +1,4 @@
-<!-- edited with XMLSpy v2018 sp1 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
+<!-- Maurya Empire (Revan) -->
 <Root>
 	<Entry>
 		<zType>ASSET_CITY_MAURYA_CAPITAL</zType>
@@ -11,6 +11,14 @@
 	<Entry>
 		<zType>ASSET_SPRITE_SHEET_MAURYA</zType>
 		<zAsset>mauryaempire/CREST_NATION_MAURYA</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_UNIT_RAHJA_GAJA</zType>
+		<zAsset>Prefabs/Units/Howdah</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_UNIT_KSATRIYA_ARYA_RATHAS</zType>
+		<zAsset>Prefabs/Units/Chariot</zAsset>
 	</Entry>
 	<Entry>
 		<zType>ASSET_SPRITE_SHEET_ASHOKA_PORTRAIT</zType>
