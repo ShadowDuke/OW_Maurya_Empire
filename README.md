@@ -5,7 +5,7 @@
 - Starting Techs: Ironworking, Divination, Adminstration & Sovereignty
 - Starting Laws: Primogeniture & Colonization
 - Families: Assakas (Clerics), Shakyas (Champions), Ikshvakus (Patrons) & Vivasvanas (Sages)
-- Unique Units: <will be added with a next update>
+- Unique Units: Rajha Gaja (turret elephant) & Ksatriya Arya Rathas (chariot archer)
 - Unique Shrines: Shrine of Lakshmi (+2 Civics, +3 Money, +1 Growth & +2 Orders), Shrine of Rama (+5 Training), Shrine of Krishna (+2 Culture & +4 Food) & Shrine of Saraswati (+4 Science)
  
 ## Content
