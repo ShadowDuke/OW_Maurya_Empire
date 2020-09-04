@@ -11,11 +11,6 @@
 		<Character>CHARACTER_BINDUSARA</Character>
 	</Entry>
 	<Entry>
-		<zType>SUBJECT_BINDUSARA</zType>
-		<Class>SUBJECTCLASS_CHARACTER</Class>
-		<Character>CHARACTER_BINDUSARA</Character>
-	</Entry>
-	<Entry>
 		<zType>SUBJECT_ASHOKA</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<Character>CHARACTER_ASHOKA</Character>

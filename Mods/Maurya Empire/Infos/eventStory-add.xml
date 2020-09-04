@@ -1,0 +1,52 @@
+<!-- Maurya Empire (Revan) -->
+<Root>
+	<Entry>
+		<zType>EVENTSTORY_ASHOKA_ASASSINATE_BINDUSARA_AND_SUSIMA</zType>
+		<Name>TEXT_EVENTSTORY_ASHOKA_ASASSINATE_BINDUSARA_AND_SUSIMA_TITLE</Name>
+		<Text>TEXT_EVENTSTORY_ASHOKA_ASASSINATE_BINDUSARA_AND_SUSIMA</Text>
+		<zBackgroundName>Death</zBackgroundName>
+		<zAudioTrigger>AUDIO_UI_EVENT_DESPAIR</zAudioTrigger>
+		<zEventAuthor>Dominik Hertel</zEventAuthor>
+		<aeSubjects>
+			<zValue>SUBJECT_CHARACTER_US</zValue>
+			<zValue>SUBJECT_CHARACTER_US</zValue>
+			<zValue>SUBJECT_LEADER_US</zValue>
+		</aeSubjects>
+		<SubjectExtras>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_BINDUSARA</Second>
+			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_DIPLOMAT</Second>
+			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_MALE</Second>
+			</Pair>
+			<Pair>
+				<First>1</First>
+				<Second>SUBJECT_SUSIMAA</Second>
+			</Pair>
+			<Pair>
+				<First>1</First>
+				<Second>SUBJECT_COMMANDER</Second>
+			</Pair>
+			<Pair>
+				<First>1</First>
+				<Second>SUBJECT_MALE</Second>
+			</Pair>
+		</SubjectExtras>
+		<aeOptions>
+			<zValue>EVENTOPTION_ASHOKA_ASASSINATE_BINDUSARA_AND_SUSIMA_OPTION_0</zValue>
+		</aeOptions>
+		<Trigger>EVENTTRIGGER_NEW_TURN_CHARACTER</Trigger>
+		<iImageExtra>1</iImageExtra>
+		<iMinTurns>5</iMinTurns> 
+		<iWeight>2</iWeight>
+		<iProb>50</iProb>
+		<iRepeatTurns>-1</iRepeatTurns>
+		<bHidePrereqs>1</bHidePrereqs>
+	</Entry>
+</Root>

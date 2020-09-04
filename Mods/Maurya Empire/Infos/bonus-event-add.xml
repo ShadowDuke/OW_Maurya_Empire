@@ -1,0 +1,15 @@
+<!-- Maurya Empire (Revan) -->
+<Root>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_ASHOKA_ASASSINATE_BINDUSARA_AND_SUSIMA_OPTION_0_CHARACTER</zType>
+		<aeBonuses>
+			<zValue>BONUS_KILL_CHARACTER</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_ASHOKA_BECOMES_CRUEL_OPTION_0</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_CRUEL</zValue>
+		</aeAddTraits>
+	</Entry>
+</Root>
