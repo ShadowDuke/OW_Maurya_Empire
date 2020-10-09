@@ -4,7 +4,7 @@
 		<zType>CHARACTER_BINDUSARA</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_BINDUSARA</FirstName>
-		<Nation>NATION_MAURYA</Nation>
+		<PlayerNation>NATION_MAURYA</PlayerNation>
 		<iAge>56</iAge>
 		<aeTraits>
 			<zValue>TRAIT_DIPLOMAT_ARCHETYPE</zValue>
@@ -14,7 +14,7 @@
 		<zType>CHARACTER_ASHOKA</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_ASHOKA</FirstName>
-		<Nation>NATION_MAURYA</Nation>
+		<PlayerNation>NATION_MAURYA</PlayerNation>
 		<Father>CHARACTER_BINDUSARA</Father>
 		<Spouse>CHARACTER_KAURVAKI</Spouse>
 		<CharacterSelectPortrait>CHARACTER_SELECT_ASHOKA</CharacterSelectPortrait>
@@ -29,7 +29,7 @@
 		<zType>CHARACTER_KAURVAKI</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_KAURVAKI</FirstName>
-		<Nation>NATION_MAURYA</Nation>
+		<PlayerNation>NATION_MAURYA</PlayerNation>
 		<iAge>27</iAge>
 		<aeTraits>
 			<zValue>TRAIT_SCHOLAR_ARCHETYPE</zValue>
@@ -41,7 +41,7 @@
 		<zType>CHARACTER_SUSIMA</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_SUSIMA</FirstName>
-		<Nation>NATION_MAURYA</Nation>
+		<PlayerNation>NATION_MAURYA</PlayerNation>
 		<Father>CHARACTER_BINDUSARA</Father>
 		<iAge>28</iAge>
 		<aeTraits>
@@ -53,7 +53,7 @@
 		<zType>CHARACTER_KUNALA</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_KUNALA</FirstName>
-		<Nation>NATION_MAURYA</Nation>
+		<PlayerNation>NATION_MAURYA</PlayerNation>
 		<Father>CHARACTER_ASHOKA</Father>
 		<Mother>CHARACTER_KAURVAKI</Mother>
 		<iAge>7</iAge>
@@ -62,7 +62,7 @@
 		<zType>CHARACTER_TIVARA</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_TIVARA</FirstName>
-		<Nation>NATION_MAURYA</Nation>
+		<PlayerNation>NATION_MAURYA</PlayerNation>
 		<Father>CHARACTER_ASHOKA</Father>
 		<Mother>CHARACTER_KAURVAKI</Mother>
 		<iAge>6</iAge>
@@ -71,7 +71,7 @@
 		<zType>CHARACTER_CHARUMATI</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_CHARUMATI</FirstName>
-		<Nation>NATION_MAURYA</Nation>
+		<PlayerNation>NATION_MAURYA</PlayerNation>
 		<Father>CHARACTER_ASHOKA</Father>
 		<Mother>CHARACTER_KAURVAKI</Mother>
 		<iAge>5</iAge>
