@@ -9,7 +9,7 @@
 		<aiUnitKillYield>
 			<Pair>
 				<zIndex>YIELD_CULTURE</zIndex>
-				<iValue>2</iValue>
+				<iValue>1</iValue>
 			</Pair>
 		</aiUnitKillYield>
 		<aiYieldUpkeep>
