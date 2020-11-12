@@ -6,7 +6,6 @@
 		<Text>TEXT_EVENTSTORY_ASHOKA_ASASSINATE_BINDUSARA_AND_SUSIMA</Text>
 		<zBackgroundName>Death</zBackgroundName>
 		<zAudioTrigger>AUDIO_UI_EVENT_DESPAIR</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
