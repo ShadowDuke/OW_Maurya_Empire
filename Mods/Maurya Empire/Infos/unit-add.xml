@@ -19,12 +19,12 @@
 		<ProductionType>YIELD_TRAINING</ProductionType>
 		<iMovement>3</iMovement>
 		<iVision>5</iVision>
+		<iReveal>1</iReveal>
 		<iFatigue>2</iFatigue>
 		<iStrength>90</iStrength>
 		<iHPMax>20</iHPMax>
 		<iProduction>160</iProduction>
 		<fAttackDuration>.5</fAttackDuration>
-		<bReveal>1</bReveal>
 		<bMelee>1</bMelee>
 		<bOutsideOpinion>1</bOutsideOpinion>
 		<bBlocks>1</bBlocks>
@@ -100,13 +100,13 @@
 		<ProductionType>YIELD_TRAINING</ProductionType>
 		<iMovement>3</iMovement>
 		<iVision>5</iVision>
+		<iReveal>1</iReveal>
 		<iFatigue>3</iFatigue>
 		<iStrength>60</iStrength>
 		<iRangeMax>2</iRangeMax>
 		<iHPMax>20</iHPMax>
 		<iProduction>100</iProduction>
 		<fAttackDuration>1</fAttackDuration>
-		<bReveal>1</bReveal>
 		<bOutsideOpinion>1</bOutsideOpinion>
 		<bIgnoreZOC>1</bIgnoreZOC>
 		<bBlocks>1</bBlocks>
