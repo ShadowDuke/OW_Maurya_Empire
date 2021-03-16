@@ -94,7 +94,7 @@
 			<zValue>FORMATION_KSATRIYA_ARYA_RATHAS</zValue>
 		</aeFormations>
 		<UnitCycle>UNITCYCLE_MILITARY_MOUNTED</UnitCycle>
-		<TechPrereq>TECH_MOUNTED_ARCHERY</TechPrereq>
+		<TechPrereq>TECH_STIRRUPS</TechPrereq>
 		<NationPrereq>NATION_MAURYA</NationPrereq>
 		<EffectCityPrereq>EFFECTCITY_RESOURCE_HORSE</EffectCityPrereq>
 		<ProductionType>YIELD_TRAINING</ProductionType>
