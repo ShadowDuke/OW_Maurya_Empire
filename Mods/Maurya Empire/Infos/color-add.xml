@@ -2,61 +2,61 @@
 <Root>
 	<Entry>
 		<zType>COLOR_NATION_MAURYA</zType>
-		<zName>Maurya</zName>
+		<Name>TEXT_COLOR_NATION_MAURYA</Name>
 		<ColorClass>COLORCLASS_NATIONS</ColorClass>
 		<zHexValue>#4bd452</zHexValue>
 	</Entry>
 	<Entry>
 		<zType>COLOR_NATION_MAURYA_TEXT</zType>
-		<zName>Maurya Text</zName>
+		<Name>TEXT_COLOR_NATION_MAURYA_TEXT</Name>
 		<ColorClass>COLORCLASS_NATIONS</ColorClass>
 		<zHexValue>#4bd452</zHexValue>
 	</Entry>
 	<Entry>
 		<zType>COLOR_NATION_MAURYA_FAMILY_01</zType>
-		<zName>Maurya Family 1</zName>
+		<Name>TEXT_COLOR_NATION_MAURYA_FAMILY_01</Name>
 		<ColorClass>COLORCLASS_NATIONS</ColorClass>
 		<zHexValue>#bbd44b</zHexValue>
 	</Entry>
 	<Entry>
 		<zType>COLOR_NATION_MAURYA_FAMILY_01_TEXT</zType>
-		<zName>Maurya Family 1 Text</zName>
+		<Name>TEXT_COLOR_NATION_MAURYA_FAMILY_01_TEXT</Name>
 		<ColorClass>COLORCLASS_NATIONS</ColorClass>
 		<zHexValue>#bbd44b</zHexValue>
 	</Entry>
 	<Entry>
 		<zType>COLOR_NATION_MAURYA_FAMILY_02</zType>
-		<zName>Maurya Family 2</zName>
+		<Name>TEXT_COLOR_NATION_MAURYA_FAMILY_02</Name>
 		<ColorClass>COLORCLASS_NATIONS</ColorClass>
 		<zHexValue>#c1f9d8</zHexValue>
 	</Entry>
 	<Entry>
 		<zType>COLOR_NATION_MAURYA_FAMILY_02_TEXT</zType>
-		<zName>Maurya Family 2 Text</zName>
+		<Name>TEXT_COLOR_NATION_MAURYA_FAMILY_02_TEXT</Name>
 		<ColorClass>COLORCLASS_NATIONS</ColorClass>
 		<zHexValue>#c1f9d8</zHexValue>
 	</Entry>
 	<Entry>
 		<zType>COLOR_NATION_MAURYA_FAMILY_03</zType>
-		<zName>Maurya Family 3</zName>
+		<Name>TEXT_COLOR_NATION_MAURYA_FAMILY_03</Name>
 		<ColorClass>COLORCLASS_NATIONS</ColorClass>
 		<zHexValue>#3f628d</zHexValue>
 	</Entry>
 	<Entry>
 		<zType>COLOR_NATION_MAURYA_FAMILY_03_TEXT</zType>
-		<zName>Maurya Family 3 Text</zName>
+		<Name>TEXT_COLOR_NATION_MAURYA_FAMILY_03_TEXT</Name>
 		<ColorClass>COLORCLASS_NATIONS</ColorClass>
 		<zHexValue>#3f628d</zHexValue>
 	</Entry>
 	<Entry>
 		<zType>COLOR_NATION_MAURYA_FAMILY_04</zType>
-		<zName>Maurya Family 4</zName>
+		<Name>TEXT_COLOR_NATION_MAURYA_FAMILY_04</Name>
 		<ColorClass>COLORCLASS_NATIONS</ColorClass>
 		<zHexValue>#ffeaaa</zHexValue>
 	</Entry>
 	<Entry>
 		<zType>COLOR_NATION_MAURYA_FAMILY_04_TEXT</zType>
-		<zName>Maurya Family 4 Text</zName>
+		<Name>TEXT_COLOR_NATION_MAURYA_FAMILY_04_TEXT</Name>
 		<ColorClass>COLORCLASS_NATIONS</ColorClass>
 		<zHexValue>#ffeaaa</zHexValue>
 	</Entry>

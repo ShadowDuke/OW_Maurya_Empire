@@ -6,12 +6,12 @@
 		<SourceNation>NATION_MAURYA</SourceNation>
 		<EffectCity>EFFECTCITY_NATION_MAURYA</EffectCity>
 		<bMultipleWorkers>1</bMultipleWorkers>
-		<aiUnitMilitaryKillYield>
+		<aiMilitaryKillYield>
 			<Pair>
 				<zIndex>YIELD_CULTURE</zIndex>
 				<iValue>1</iValue>
 			</Pair>
-		</aiUnitMilitaryKillYield>
+		</aiMilitaryKillYield>
 		<aiYieldUpkeep>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2018 sp1 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
+<Root>
+	<Entry>
+		<zType/>
+		<English/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_MAURYA</zType>
+		<English>Maurya</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_MAURYA_TEXT</zType>
+		<English>Maurya Text</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_MAURYA_FAMILY_01</zType>
+		<English>Maurya Family 1</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_MAURYA_FAMILY_01_TEXT</zType>
+		<English>Maurya Family 1 Text</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_MAURYA_FAMILY_02</zType>
+		<English>Maurya Family 2</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_MAURYA_FAMILY_02_TEXT</zType>
+		<English>Maurya Family 2 Text</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_MAURYA_FAMILY_03</zType>
+		<English>Maurya Family 3</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_MAURYA_FAMILY_03_TEXT</zType>
+		<English>Maurya Family 3 Text</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_MAURYA_FAMILY_04</zType>
+		<English>Maurya Family 4</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_MAURYA_FAMILY_04_TEXT</zType>
+		<English>Maurya Family 4 Text</English>
+	</Entry>
+</Root>

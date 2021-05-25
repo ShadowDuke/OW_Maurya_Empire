@@ -3,37 +3,30 @@
 	<Entry>
 		<zType>NAME_ASHOKA</zType>
 		<zName>Ashoka</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_ASHOKA</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_BINDUSARA</zType>
 		<zName>Bindusara</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_MAURYA_LEADER_MALE_02</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_KAURVAKI</zType>
 		<zName>Kaurvaki</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_MAURYA_LEADER_FEMALE_04</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_TIVARA</zType>
 		<zName>Tivara</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_MAURYA_LEADER_MALE_01</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_KUNALA</zType>
 		<zName>Kunala</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_MAURYA_LEADER_MALE_03</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_CHARUMATI</zType>
 		<zName>Charumati</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_MAURYA_LEADER_FEMALE_01</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_SUSIMA</zType>
 		<zName>Susima</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_MAURYA_LEADER_MALE_05</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_MALE01</zType>
