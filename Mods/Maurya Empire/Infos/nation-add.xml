@@ -56,8 +56,8 @@
 				<zValue>LAW_PRIMOGENITURE</zValue>
 			</Pair>
 			<Pair>
-				<zIndex>LAWCLASS_COLONIZATION_SERFDOM</zIndex>
-				<zValue>LAW_COLONIZATION</zValue>
+				<zIndex>LAWCLASS_COLONIES_SERFDOM</zIndex>
+				<zValue>LAW_COLONIES</zValue>
 			</Pair>
 		</aeStartingLaw>
 		<aeFirstNamesMale>

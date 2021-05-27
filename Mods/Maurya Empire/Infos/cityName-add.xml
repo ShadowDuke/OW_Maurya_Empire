@@ -2,82 +2,82 @@
 <Root>
 	<Entry>
 		<zType>CITYNAME_MAURYA1</zType>
-		<zName>Pataliputra</zName>
+		<Name>TEXT_CITYNAME_MAURYA1</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MAURYA2</zType>
-		<zName>Kumhrar</zName>
+		<Name>TEXT_CITYNAME_MAURYA2</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MAURYA3</zType>
-		<zName>Punjab</zName>
+		<Name>TEXT_CITYNAME_MAURYA3</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MAURYA4</zType>
-		<zName>Bulandi Bagh</zName>
+		<Name>TEXT_CITYNAME_MAURYA4</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MAURYA5</zType>
-		<zName>Kamboja</zName>
+		<Name>TEXT_CITYNAME_MAURYA5</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MAURYA6</zType>
-		<zName>Magadha</zName>
+		<Name>TEXT_CITYNAME_MAURYA6</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MAURYA7</zType>
-		<zName>Gandhara</zName>
+		<Name>TEXT_CITYNAME_MAURYA7</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MAURYA8</zType>
-		<zName>Kashi</zName>
+		<Name>TEXT_CITYNAME_MAURYA8</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MAURYA9</zType>
-		<zName>Anga</zName>
+		<Name>TEXT_CITYNAME_MAURYA9</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MAURYA10</zType>
-		<zName>Taxila</zName>
+		<Name>TEXT_CITYNAME_MAURYA10</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MAURYA11</zType>
-		<zName>Chedi</zName>
+		<Name>TEXT_CITYNAME_MAURYA11</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MAURYA12</zType>
-		<zName>Kosala</zName>
+		<Name>TEXT_CITYNAME_MAURYA12</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MAURYA13</zType>
-		<zName>Kuru</zName>
+		<Name>TEXT_CITYNAME_MAURYA13</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MAURYA14</zType>
-		<zName>Malla</zName>
+		<Name>TEXT_CITYNAME_MAURYA14</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MAURYA15</zType>
-		<zName>Matsya</zName>
+		<Name>TEXT_CITYNAME_MAURYA15</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MAURYA16</zType>
-		<zName>Panchala</zName>
+		<Name>TEXT_CITYNAME_MAURYA16</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MAURYA17</zType>
-		<zName>Avanti</zName>
+		<Name>TEXT_CITYNAME_MAURYA17</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MAURYA18</zType>
-		<zName>Surasena</zName>
+		<Name>TEXT_CITYNAME_MAURYA18</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MAURYA19</zType>
-		<zName>Vajji</zName>
+		<Name>TEXT_CITYNAME_MAURYA19</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MAURYA20</zType>
-		<zName>Vatsa</zName>
+		<Name>TEXT_CITYNAME_MAURYA20</Name>
 	</Entry>
 </Root>
