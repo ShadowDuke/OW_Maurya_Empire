@@ -14,7 +14,7 @@
 		<FirstRuler>CHARACTER_ASHOKA</FirstRuler>
 		<FirstBuild>UNIT_WARRIOR</FirstBuild>
 		<EffectPlayer>EFFECTPLAYER_NATION_MAURYA</EffectPlayer>
-		<MapElementNames>MAP_ELEMENT_NAMES_FOR_MAURYA</MapElementNames>
+<!--	<MapElementNames>MAP_ELEMENT_NAMES_FOR_MAURYA</MapElementNames> -->
 		<iFirstBuildPercent>10</iFirstBuildPercent>
 		<aiStartUnit>
 			<Pair>
@@ -80,7 +80,6 @@
 			<zValue>NAME_MAURYA_MALE17</zValue>
 			<zValue>NAME_MAURYA_MALE18</zValue>
 			<zValue>NAME_MAURYA_MALE19</zValue>
-			<zValue>NAME_MAURYA_MALE20</zValue>
 		</aeFirstNamesMale>
 		<aeFirstNamesFemale>
 			<zValue>NAME_MAURYA_FEMALE01</zValue>

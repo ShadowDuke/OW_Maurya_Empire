@@ -3,13 +3,13 @@
 	<Entry>
 		<zType>MAP_ELEMENT_NAMES_FOR_MAURYA</zType>
 		<azVolcanoNames>
-			<zValue>Tosham Hills</zValue>
-			<zValue>Dhosi Hill</zValue>
-			<zValue>Dhinodhar Hills</zValue>
-			<zValue>Baratang</zValue>
-			<zValue>Deccan Traps</zValue>
-			<zValue>Narcondam</zValue>
-			<zValue>Barren Island</zValue>
+			<zValue>TEXT_Tosham_Hills</zValue>
+			<zValue>TEXT_Dhosi_Hill</zValue>
+			<zValue>TEXT_Dhinodhar_Hills</zValue>
+			<zValue>TEXT_Baratang</zValue>
+			<zValue>TEXT_Deccan_Traps</zValue>
+			<zValue>TEXT_Narcondam</zValue>
+			<zValue>TEXT_Barren_Island</zValue>
 		</azVolcanoNames>
 		<azMountainRangeNames>
 			<zValue>Kangchenjunga</zValue>

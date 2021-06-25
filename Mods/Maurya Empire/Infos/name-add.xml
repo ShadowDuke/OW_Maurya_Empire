@@ -2,190 +2,186 @@
 <Root>
 	<Entry>
 		<zType>NAME_ASHOKA</zType>
-		<zName>Ashoka</zName>
+		<Name>TEXT_NAME_Ashoka</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_BINDUSARA</zType>
-		<zName>Bindusara</zName>
+		<Name>TEXT_NAME_Bindusara</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_KAURVAKI</zType>
-		<zName>Kaurvaki</zName>
+		<Name>TEXT_NAME_Kaurvaki</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_TIVARA</zType>
-		<zName>Tivara</zName>
+		<Name>TEXT_NAME_Tivara</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_KUNALA</zType>
-		<zName>Kunala</zName>
+		<Name>TEXT_NAME_Kunala</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_CHARUMATI</zType>
-		<zName>Charumati</zName>
+		<Name>TEXT_NAME_Charumati</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_SUSIMA</zType>
-		<zName>Susima</zName>
+		<Name>TEXT_NAME_Susima</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_MALE01</zType>
-		<zName>Agastya</zName>
+		<Name>TEXT_NAME_Agastya</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_MALE02</zType>
-		<zName>Andhaka</zName>
+		<Name>TEXT_NAME_Andhaka</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_MALE03</zType>
-		<zName>Sagara</zName>
+		<Name>TEXT_NAME_Sagara</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_MALE04</zType>
-		<zName>Mahendra</zName>
+		<Name>TEXT_NAME_Mahendra</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_MALE05</zType>
-		<zName>Rishyasringa</zName>
+		<Name>TEXT_NAME_Rishyasringa</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_MALE06</zType>
-		<zName>Raj</zName>
+		<Name>TEXT_NAME_Raj</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_MALE07</zType>
-		<zName>Idhant</zName>
+		<Name>TEXT_NAME_Idhant</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_MALE08</zType>
-		<zName>Kabir</zName>
+		<Name>TEXT_NAME_Kabir</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_MALE09</zType>
-		<zName>Nimit</zName>
+		<Name>TEXT_NAME_Nimit</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_MALE10</zType>
-		<zName>Pranay</zName>
+		<Name>TEXT_NAME_Pranay</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_MALE11</zType>
-		<zName>Rushil</zName>
+		<Name>TEXT_NAME_Rushil</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_MALE12</zType>
-		<zName>Zuber</zName>
+		<Name>TEXT_NAME_Zuber</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_MALE13</zType>
-		<zName>Ishank</zName>
+		<Name>TEXT_NAME_Ishank</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_MALE14</zType>
-		<zName>Manan</zName>
+		<Name>TEXT_NAME_Manan</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_MALE15</zType>
-		<zName>Pahal</zName>
+		<Name>TEXT_NAME_Pahal</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_MALE16</zType>
-		<zName>Rishit</zName>
+		<Name>TEXT_NAME_Rishit</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_MALE17</zType>
-		<zName>Sarthak</zName>
+		<Name>TEXT_NAME_Sarthak</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_MALE18</zType>
-		<zName>Yug</zName>
+		<Name>TEXT_NAME_Yug</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_MALE19</zType>
-		<zName>Manan</zName>
-	</Entry>
-	<Entry>
-		<zType>NAME_MAURYA_MALE20</zType>
-		<zName>Ayaan</zName>
+		<Name>TEXT_NAME_Ayaan</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_FEMALE01</zType>
-		<zName>Anusuya</zName>
+		<Name>TEXT_NAME_Anusuya</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_FEMALE02</zType>
-		<zName>Satyavati</zName>
+		<Name>TEXT_NAME_Satyavati</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_FEMALE03</zType>
-		<zName>Maya</zName>
+		<Name>TEXT_NAME_Maya</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_FEMALE04</zType>
-		<zName>Yashodha</zName>
+		<Name>TEXT_NAME_Yashodha</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_FEMALE05</zType>
-		<zName>Narmada</zName>
+		<Name>TEXT_NAME_Narmada</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_FEMALE06</zType>
-		<zName>Aaradhya</zName>
+		<Name>TEXT_NAME_Aaradhya</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_FEMALE07</zType>
-		<zName>Anaisha</zName>
+		<Name>TEXT_NAME_Anaisha</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_FEMALE08</zType>
-		<zName>Avni</zName>
+		<Name>TEXT_NAME_Avni</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_FEMALE09</zType>
-		<zName>Hiya</zName>
+		<Name>TEXT_NAME_Hiya</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_FEMALE10</zType>
-		<zName>Kashvi</zName>
+		<Name>TEXT_NAME_Kashvi</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_FEMALE11</zType>
-		<zName>Mayra</zName>
+		<Name>TEXT_NAME_Mayra</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_FEMALE12</zType>
-		<zName>Naitee</zName>
+		<Name>TEXT_NAME_Naitee</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_FEMALE13</zType>
-		<zName>Saanvi</zName>
+		<Name>TEXT_NAME_Saanvi</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_FEMALE14</zType>
-		<zName>Sahana</zName>
+		<Name>TEXT_NAME_Sahana</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_FEMALE15</zType>
-		<zName>Shrishti</zName>
+		<Name>TEXT_NAME_Shrishti</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_FEMALE16</zType>
-		<zName>Zara</zName>
+		<Name>TEXT_NAME_Zara</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_FEMALE17</zType>
-		<zName>Tanvi</zName>
+		<Name>TEXT_NAME_Tanvi</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_FEMALE18</zType>
-		<zName>Taahira</zName>
+		<Name>TEXT_NAME_Taahira</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_FEMALE19</zType>
-		<zName>Sneha</zName>
+		<Name>TEXT_NAME_Sneha</Name>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAURYA_FEMALE20</zType>
-		<zName>Saloni</zName>
+		<Name>TEXT_NAME_Saloni</Name>
 	</Entry>
 </Root>
