@@ -1,0 +1,1011 @@
+<!-- Maurya Empire (Revan) -->
+<Root>
+	<Entry>
+		<zType>TEXT_Tosham_Hills</zType>
+		<English>Tosham Hills</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Dhosi_Hill</zType>
+		<English>Dhosi Hill</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Dhinodhar_Hills</zType>
+		<English>Dhinodhar Hills</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Baratang</zType>
+		<English>Baratang</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Deccan_Traps</zType>
+		<English>Deccan Traps</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Narcondam</zType>
+		<English>Narcondam</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Barren_Island</zType>
+		<English>Barren Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Kangchenjunga</zType>
+		<English>Kangchenjunga</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Nanda_Devi</zType>
+		<English>Nanda Devi</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Kamet</zType>
+		<English>Kamet</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Saltoro_Kangri</zType>
+		<English>Saltoro Kangri</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Mamostong_Kangri</zType>
+		<English>Mamostong Kangri</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Saser_Kangri</zType>
+		<English>Saser Kangri</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Teram_Kangri</zType>
+		<English>Teram Kangri</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_K12</zType>
+		<English>K12</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Kabru</zType>
+		<English>Kabru</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Ghent_Kangri</zType>
+		<English>Ghent Kangri</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Baratang</zType>
+		<English>Baratang</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Deccan_Traps</zType>
+		<English>Deccan Traps</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Narcondam</zType>
+		<English>Narcondam</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Jongsong_Peak</zType>
+		<English>Jongsong Peak</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Mana_Peak</zType>
+		<English>Mana Peak</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Singhi_Kangri</zType>
+		<English>Singhi Kangri</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Hardeol</zType>
+		<English>Hardeol</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Badrinath_Peak</zType>
+		<English>Badrinath Peak</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Nun_Kun</zType>
+		<English>Nun-Kun</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Trisul</zType>
+		<English>Trisul</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Satopanth</zType>
+		<English>Satopanth</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Tirsuli</zType>
+		<English>Tirsuli</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Dunagiri</zType>
+		<English>Dunagiri</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Rishi_Pahar</zType>
+		<English>Rishi Pahar</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Thalay_Sagar</zType>
+		<English>Thalay Sagar</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Kedarnath_Main</zType>
+		<English>Kedarnath Main</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Panchchuli</zType>
+		<English>Panchchuli</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Brahmaputra_River</zType>
+		<English>Brahmaputra Rive</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Yamuna_River</zType>
+		<English>Yamuna River</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Ganga</zType>
+		<English>Ganga</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Sharda_River</zType>
+		<English>Sharda River</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Gomti_River</zType>
+		<English>Gomti River</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Chambal_River</zType>
+		<English>Chambal River</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Betwa_River</zType>
+		<English>Betwa River</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Ken_River</zType>
+		<English>Ken River</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Tons_River</zType>
+		<English>Tons River</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Ghaghara</zType>
+		<English>Ghaghara</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Gandaki_River</zType>
+		<English>Gandaki River</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Burhi_Gandak_River</zType>
+		<English>Burhi Gandak River</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Kosi_River</zType>
+		<English>Kosi River</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Mahananda_River</zType>
+		<English>Mahananda River</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Tamsa_River</zType>
+		<English>Tamsa River</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Son_River</zType>
+		<English>Son River</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Bagmati_River</zType>
+		<English>Bagmati River</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Meghna_River</zType>
+		<English>Meghna River</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Mahanadi</zType>
+		<English>Mahanadi</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Godavari_River</zType>
+		<English>Godavari River</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Krishna_River</zType>
+		<English>Krishna River</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Kaveri</zType>
+		<English>Kaveri</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Narmada_River</zType>
+		<English>Narmada River</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Tapti_River</zType>
+		<English>Tapti River</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Sabarmati_River</zType>
+		<English>Sabarmati River</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Purna_River</zType>
+		<English>Purna River</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Sundarbans</zType>
+		<English>Sundarbans</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Gir_Forest</zType>
+		<English>Gir Forest</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Nilgiri_Biosphere_Reserve</zType>
+		<English>Nilgiri Biosphere Reserve</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Saranda_Forest</zType>
+		<English>Saranda forest</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Nanmangalam_Forest</zType>
+		<English>Nanmangalam Forest</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Pichavaram_Mangrove_Forest</zType>
+		<English>Pichavaram Mangrove Forest</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Molai_Forest</zType>
+		<English>Molai forest</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Abujmarh_Forest</zType>
+		<English>Abujmarh Forest</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Peloponnesian_Maquis</zType>
+		<English>Peloponnesian Maquis</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Satopanth</zType>
+		<English>Satopanth</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Vai_Palm_Forest</zType>
+		<English>Vai Palm Forest</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Kurd_Dagh_Woodlands</zType>
+		<English>Kurd-Dagh Woodlands</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Hermel_Forest</zType>
+		<English>Hermel Forestr</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Dennieh_Scrubland</zType>
+		<English>Dennieh Scrubland</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Bhuikhel</zType>
+		<English>Bhuikhel</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Depsang_Plain</zType>
+		<English>Depsang Plain</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Dooars</zType>
+		<English>Dooars</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Eastern_Coastal_Plains</zType>
+		<English>Eastern Coastal Plains</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Indo_Gangetic_Plain</zType>
+		<English>Indo-Gangetic Plain</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Kiang_Chu_Thang</zType>
+		<English>Kiang Chu Thang</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_North_Bengal_Plain</zType>
+		<English>North Bengal Plain</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Punjab_Plain</zType>
+		<English>Punjab Plain</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Terai</zType>
+		<English>Terai</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Utkal_Plains</zType>
+		<English>Utkal Plains</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Western_Coastal_Plains</zType>
+		<English>Western Coastal Plains</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Trans_Himalaya</zType>
+		<English>Trans-Himalaya</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_White_Salt_Desert_of_Kutch</zType>
+		<English>White Salt Desert of Kutch</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Sandy_Desert_of_Rajasthan</zType>
+		<English>Sandy Desert of Rajasthan</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Deccan_Plateau</zType>
+		<English>Deccan Plateau</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Marwar_Upland</zType>
+		<English>Marwar Upland</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Madhya_Bharat_Pathar</zType>
+		<English>Madhya Bharat Pathar</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Bundelkhand_Upland</zType>
+		<English>Bundelkhand Upland</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Malwa_Plateau</zType>
+		<English>Malwa Plateau</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Baghelkhand</zType>
+		<English>Baghelkhand</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Chotanagpur_Plateau</zType>
+		<English>Chotanagpur Plateau</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Meghalaya_Plateau</zType>
+		<English>Meghalaya Plateau</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Deccan_Plateau</zType>
+		<English>Deccan Plateau</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Chhattisgarh_Plain</zType>
+		<English>Chhattisgarh Plain</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Araku_Valley</zType>
+		<English>Araku Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Bangus_Valley</zType>
+		<English>Bangus Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Barak_Valley</zType>
+		<English>Barak Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Baspa_Valley</zType>
+		<English>Baspa Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Betaab_Valley</zType>
+		<English>Betaab Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Bhal_Padri_Valley</zType>
+		<English>Bhal Padri Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Breng_Valley</zType>
+		<English>Breng Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Chenab_Valley</zType>
+		<English>Chenab Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Dah_Hanu_Valley</zType>
+		<English>Dah Hanu Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Damodar_Valley</zType>
+		<English>Damodar Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Upper_Dibang_Valley</zType>
+		<English>Upper Dibang Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Lower_Dibang_Valley</zType>
+		<English>Lower Dibang Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Godavari_Valley</zType>
+		<English>Godavari Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Gurais_Valley</zType>
+		<English>Gurais Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Imphal_Valley</zType>
+		<English>Imphal Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Indus_Valley</zType>
+		<English>Indus Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Jai_Valley</zType>
+		<English>Jai Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Jhelum_Valley</zType>
+		<English>Jhelum Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Joginder_Nagar_Valley</zType>
+		<English>Joginder Nagar Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Johar_Valley</zType>
+		<English>Johar Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Kabaw_Valley</zType>
+		<English>Kabaw Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Kangra_Valley</zType>
+		<English>Kangra Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Kashmir_Valley</zType>
+		<English>Kashmir Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Ketti_Valley</zType>
+		<English>Ketti Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Kullu_Valley</zType>
+		<English>Kullu Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Leepa_Valley</zType>
+		<English>Leepa Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Lidder_Valley</zType>
+		<English>Lidder Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Lolab_Valley</zType>
+		<English>Lolab Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Lug_Valley</zType>
+		<English>Lug Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Markha_Valley</zType>
+		<English>Markha Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Nagarjunasagar</zType>
+		<English>Nagarjunasagar</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Narmada_Valley</zType>
+		<English>Narmada Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Neelam_Valley</zType>
+		<English>Neelam Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Nubra_Valley</zType>
+		<English>Nubra Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Parvati_Valley</zType>
+		<English>Parvati Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Pin_Valley</zType>
+		<English>Pin Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Satluj_Valley</zType>
+		<English>Satluj Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Sind_Valley</zType>
+		<English>Sind Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Soon_Valley</zType>
+		<English>Soon Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Tlawng_Valley</zType>
+		<English>Tlawng Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Suru_Valley</zType>
+		<English>Suru Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Valley_of_Flowers</zType>
+		<English>Valley of Flowers</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Yumthang_Valley</zType>
+		<English>Yumthang Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Zoji_La_Valley</zType>
+		<English>Zoji La Valley</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Indian_Ocean</zType>
+		<English>Indian Ocean</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Arabian_Sea</zType>
+		<English>Arabian Sea</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Andaman_Sea</zType>
+		<English>Andaman Sea</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Gulf_of_Oman</zType>
+		<English>Gulf of Oman</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Laccadive_Sea</zType>
+		<English>Laccadive Sea</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Mozambique_Channel</zType>
+		<English>Mozambique Channel</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Persian_Gulf</zType>
+		<English>Persian Gulf</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Red_Sea</zType>
+		<English>Red Sea</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Sea_of_Zanj</zType>
+		<English>Sea of Zanj</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Timor_Sea</zType>
+		<English>Timor Sea</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Palk_Strait</zType>
+		<English>Palk Strait</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Gulf_of_Khambhat</zType>
+		<English>Gulf of Khambhat</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Gulf_of_Kutch</zType>
+		<English>Gulf of Kutch</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Gulf_of_Mannar</zType>
+		<English>Gulf of Mannar</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Bay_of_Benga</zType>
+		<English>Bay of Benga</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Black_Bay</zType>
+		<English>Black Bay</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Campbell_Bay</zType>
+		<English>Campbell Bay</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Hukitola</zType>
+		<English>Hukitola</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Mahim_Bay</zType>
+		<English>Mahim Bay</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Peacock_Bay</zType>
+		<English>Peacock Bay</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Ambracian_Gulf</zType>
+		<English>Ambracian Gulf</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Turkmenbashi_Bay</zType>
+		<English>Turkmenbashi Bay</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Tahanroz_ka_Gulf</zType>
+		<English>Tahanroz'ka Gulf</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Gulf_of_Aqaba</zType>
+		<English>Gulf of Aqaba</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Gulf_of_Aden</zType>
+		<English>Gulf of Aden</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Kolleru_Lake</zType>
+		<English>Kolleru Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Kondakarla_Ava</zType>
+		<English>Kondakarla Ava</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Cumbum_Lake</zType>
+		<English>Cumbum Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Pulicat_Lake</zType>
+		<English>Pulicat Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Haflong_Lake</zType>
+		<English>Haflong Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Chandubi_Lake</zType>
+		<English>Chandubi Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Rudrasagar_Lake</zType>
+		<English>Rudrasagar Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Dipor_Bil</zType>
+		<English>Dipor Bil</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Ghora_Katora</zType>
+		<English>Ghora Katora</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Sukhna_Lake</zType>
+		<English>Sukhna Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Gopi_Talav</zType>
+		<English>Gopi Talav</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Hamirsar_Lake</zType>
+		<English>Hamirsar Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Kankaria_Lake</zType>
+		<English>Kankaria Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Narayan_Sarovar</zType>
+		<English>Narayan Sarovar</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Shakoor_Lake</zType>
+		<English>Shakoor Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Badkhal_Lake</zType>
+		<English>Badkhal Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Brahma_Sarovar</zType>
+		<English>Brahma Sarovar</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Tilyar_Lake</zType>
+		<English>Tilyar Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Bhrigu_Lake</zType>
+		<English>Bhrigu Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Chandra_Taal</zType>
+		<English>Chandra Taal</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Chander_Naun</zType>
+		<English>Chander Naun</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Dashair_Lake</zType>
+		<English>Dashair Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Dehnasar_Lake</zType>
+		<English>Dehnasar Lakea</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Dhankar_Lake</zType>
+		<English>Dhankar Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Ghadhasaru_Lake</zType>
+		<English>Ghadhasaru Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Gobind_Sagar</zType>
+		<English>Gobind Sagar</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Manimahesh_Lake</zType>
+		<English>Manimahesh Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Nako_Lake</zType>
+		<English>Nako Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Suraj_Tal</zType>
+		<English>Suraj Tal</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Anchar_Lake</zType>
+		<English>Anchar Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Gadsar_Lake</zType>
+		<English>Gadsar Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Gangabal_Lake</zType>
+		<English>Gangabal Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Kausar_Nag</zType>
+		<English>Kausar Nag</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Manasbal_Lake</zType>
+		<English>Manasbal Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Mansar_Lake</zType>
+		<English>Mansar Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Marsar_Lake</zType>
+		<English>Marsar Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Sheshnag_Lake</zType>
+		<English>Sheshnag Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Tarsar_Lake</zType>
+		<English>Tarsar Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Vishansar_Lake</zType>
+		<English>Vishansar Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Wular_Lake</zType>
+		<English>Wular Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Nigeen_Lake</zType>
+		<English>Nigeen Lake</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Tso_Kar</zType>
+		<English>Tso Kar</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Pangong_Tso</zType>
+		<English>Pangong Tso</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Landfall_Island</zType>
+		<English>Landfall Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_East_Island</zType>
+		<English>East Islande</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_West_Island</zType>
+		<English>West Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Pulomilo</zType>
+		<English>Pulomilo</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Bhavani_Island</zType>
+		<English>Bhavani Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Swamp_Island</zType>
+		<English>Swamp Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Diviseema</zType>
+		<English>Diviseema</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Murga_Island</zType>
+		<English>Murga Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_South_Reef_Island</zType>
+		<English>South Reef Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Konaseema</zType>
+		<English>Konaseema</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Baratang_Island</zType>
+		<English>Baratang Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Hope_Island</zType>
+		<English>Hope Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Irukkam_Island</zType>
+		<English>Irukkam Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Sriharikota</zType>
+		<English>Sriharikota</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Venadu</zType>
+		<English>Venadu</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Talakaicha_Island</zType>
+		<English>Talakaicha Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Boning_Island</zType>
+		<English>Boning Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Majuli_Island</zType>
+		<English>Majuli Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Garacharma_Island</zType>
+		<English>Garacharma Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Rutland_Island</zType>
+		<English>Rutland Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Cinque_Islands</zType>
+		<English>Cinque Islands</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Tarmugli_Island</zType>
+		<English>Tarmugli Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Little_Andaman_Island</zType>
+		<English>Little Andaman Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Barren_Island</zType>
+		<English>Barren Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Narcondam_Island</zType>
+		<English>Narcondam Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Battimalv_Island</zType>
+		<English>Battimalv Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Teressa</zType>
+		<English>Teressa</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Bompuka_Island</zType>
+		<English>Bompuka Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Kamorta_Island</zType>
+		<English>Kamorta Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Katchal_Island</zType>
+		<English>Katchal Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Nancowry_Island</zType>
+		<English>Nancowry Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Trinket_Island</zType>
+		<English>Trinket Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Laouk</zType>
+		<English>Laouk</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Tillangchong</zType>
+		<English>Tillangchong</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Great_Nicobar_Island</zType>
+		<English>Great Nicobar Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Little_Nicobar</zType>
+		<English>Little Nicobar</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Kondul_Island</zType>
+		<English>Kondul Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Umananda_Island</zType>
+		<English>Umananda Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Raghopur_Diyara_Island</zType>
+		<English>Raghopur Diyara Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Diu_Island</zType>
+		<English>Diu Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Anjediva_Island</zType>
+		<English>Anjediva Island</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_Bet_Dwarka</zType>
+		<English>Bet Dwarka</English>
+	</Entry>
+</Root>
