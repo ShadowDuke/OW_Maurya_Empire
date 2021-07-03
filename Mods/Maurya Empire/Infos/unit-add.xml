@@ -8,9 +8,11 @@
 		<zBackgroundName>GenericUnitAttackBackground</zBackgroundName>
 		<zAudioSelectionType>MILITARY</zAudioSelectionType>
 		<zAudioMovementType>GENERIC</zAudioMovementType>
-		<zAudioAttackType>GENERIC</zAudioAttackType>
+		<zAudioAttackType>ANIMATED</zAudioAttackType>
+		<zAudioDamagedByProjectileType>combo_flesh_metal</zAudioDamagedByProjectileType>
 		<aeFormations>
 			<zValue>FORMATION_RAHJA_GAJA</zValue>
+			<zValue>FORMATION_DEFAULT_WATER</zValue>
 		</aeFormations>
 		<UnitCycle>UNITCYCLE_MILITARY_MOUNTED</UnitCycle>
 		<NationPrereq>NATION_MAURYA</NationPrereq>
@@ -87,11 +89,13 @@
 		<zIconName>UNIT_CHARIOT</zIconName>
 		<zPortraitName>UNIT_CHARIOT</zPortraitName>
 		<zBackgroundName>GenericUnitAttackBackground</zBackgroundName>
-		<zAudioSelectionType>MILITARY</zAudioSelectionType>
-		<zAudioMovementType>GENERIC</zAudioMovementType>
-		<zAudioAttackType>GENERIC</zAudioAttackType>
+		<zAudioSelectionType>HORSEMAN</zAudioSelectionType>
+		<zAudioMovementType>ANIMATED</zAudioMovementType>
+		<zAudioAttackType>ANIMATED</zAudioAttackType>
+		<zAudioDamagedByProjectileType>flesh</zAudioDamagedByProjectileType>
 		<aeFormations>
 			<zValue>FORMATION_KSATRIYA_ARYA_RATHAS</zValue>
+			<zValue>FORMATION_DEFAULT_WATER</zValue>
 		</aeFormations>
 		<UnitCycle>UNITCYCLE_MILITARY_MOUNTED</UnitCycle>
 		<TechPrereq>TECH_STIRRUPS</TechPrereq>
