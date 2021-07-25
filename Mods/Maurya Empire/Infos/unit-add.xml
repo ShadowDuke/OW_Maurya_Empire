@@ -6,8 +6,8 @@
 		<zIconName>UNIT_TURRETED_ELEPHANT</zIconName>
 		<zPortraitName>UNIT_TURRETED_ELEPHANT</zPortraitName>
 		<zBackgroundName>GenericUnitAttackBackground</zBackgroundName>
-		<zAudioSelectionType>MILITARY</zAudioSelectionType>
-		<zAudioMovementType>GENERIC</zAudioMovementType>
+		<zAudioSelectionType>ELEPHANT</zAudioSelectionType>
+		<zAudioMovementType>ANIMATED</zAudioMovementType>
 		<zAudioAttackType>ANIMATED</zAudioAttackType>
 		<zAudioDamagedByProjectileType>combo_flesh_metal</zAudioDamagedByProjectileType>
 		<aeFormations>

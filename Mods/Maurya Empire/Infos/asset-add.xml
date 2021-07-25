@@ -6,7 +6,7 @@
 	</Entry>
 	<Entry>
 		<zType>ASSET_MAURYA_URBAN</zType>
-		<zAsset>Prefabs/Cities/Babylon/Babylon_Urban_ClutterTransforms</zAsset>
+		<zAsset>Prefabs/Cities/Babylonia/Babylonia_Urban</zAsset>
 	</Entry>
 	<Entry>
 		<zType>ASSET_SPRITE_SHEET_MAURYA</zType>
@@ -14,7 +14,7 @@
 	</Entry>
 	<Entry>
 		<zType>ASSET_UNIT_RAHJA_GAJA</zType>
-		<zAsset>Prefabs/Units/Howdah</zAsset>
+		<zAsset>Prefabs/Units/Turreted_Elephant</zAsset>
 	</Entry>
 	<Entry>
 		<zType>ASSET_UNIT_KSATRIYA_ARYA_RATHAS</zType>
