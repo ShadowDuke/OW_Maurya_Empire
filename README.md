@@ -5,7 +5,7 @@ Comprising the majority of South Asia, the Maurya Empire was centralized by the 
 The empire was the largest political entity that has existed in the Indian subcontinent, extending over 5 million square kilometres (1.9 million square miles) at its zenith under Ashoka.<br><br>
 
 - Leader: Ashoka [HERO] (wife; Kaurvaki, 2 sons; Tivara & Kunala, 1 daugther; Charumati, Half-Brother; Susima, Father; Bindusara)
-- Nation: Multiple Workers can build Improvements, -25% Cost for Elephant Units, -15% Train Time for Settlers & +1 Growth per City per Year - [All Cities] +15% Growth
+- Nation: Multiple Workers can build Improvements, -25% Cost for Elephant Units, -15% Train Time for Settlers & +1 Growth per City per Year - [All Cities] +15% Growth & +15% Training
 - Starting Techs: Ironworking, Divination, Adminstration & Sovereignty
 - Starting Laws: Primogeniture & Colonization
 - Families: Assakas (Clerics), Shakyas (Champions), Ikshvakus (Patrons) & Vivasvanas (Sages)
