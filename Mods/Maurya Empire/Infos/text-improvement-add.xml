@@ -2,18 +2,18 @@
 <Root>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_LAKSHMI</zType>
-		<English>Shrine of Lakshmi</English>
+		<en-US>Shrine of Lakshmi</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_RAMA</zType>
-		<English>Shrine of Rama</English>
+		<en-US>Shrine of Rama</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_KRISHNA</zType>
-		<English>Shrine of Krishna</English>
+		<en-US>Shrine of Krishna</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_SARASWATI</zType>
-		<English>Shrine of Saraswati</English>
+		<en-US>Shrine of Saraswati</en-US>
 	</Entry>
 </Root>

@@ -2,10 +2,10 @@
 <Root>
 	<Entry>
 		<zType>TEXT_UNIT_RAHJA_GAJA</zType>
-		<English>Rajha Gaja~a Rajha Gaja~Rajha Gajas</English>
+		<en-US>Rajha Gaja~a Rajha Gaja~Rajha Gajas</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_KSATRIYA_ARYA_RATHAS</zType>
-		<English>Ksatriya Arya Rathas~a Ksatriya Arya Rathas~Ksatriya Arya Rathas</English>
+		<en-US>Ksatriya Arya Rathas~a Ksatriya Arya Rathas~Ksatriya Arya Rathas</en-US>
 	</Entry>
 </Root>

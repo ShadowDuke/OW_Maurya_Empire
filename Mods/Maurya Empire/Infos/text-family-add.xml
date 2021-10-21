@@ -2,18 +2,18 @@
 <Root>
 	<Entry>
 		<zType>TEXT_FAMILY_ASSAKAS</zType>
-		<English>Assakas~Assakasians~Assakasid</English>
+		<en-US>Assakas~Assakasians~Assakasid</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_SHAKYAS</zType>
-		<English>Shakyas~Shakyansians~Shakyasid</English>
+		<en-US>Shakyas~Shakyansians~Shakyasid</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_IKSHVAKUS</zType>
-		<English>Ikshvakus~Ikshvakusians~Ikshvakusid</English>
+		<en-US>Ikshvakus~Ikshvakusians~Ikshvakusid</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_VIVASVANAS</zType>
-		<English>Vivasvanas~Vivasvanasians~Vivasvanasid</English>
+		<en-US>Vivasvanas~Vivasvanasians~Vivasvanasid</en-US>
 	</Entry>
 </Root>

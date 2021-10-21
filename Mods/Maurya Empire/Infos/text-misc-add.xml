@@ -3,46 +3,46 @@
 <Root>
 	<Entry>
 		<zType/>
-		<English/>
+		<en-US/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_MAURYA</zType>
-		<English>Maurya</English>
+		<en-US>Maurya</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_MAURYA_TEXT</zType>
-		<English>Maurya Text</English>
+		<en-US>Maurya Text</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_MAURYA_FAMILY_01</zType>
-		<English>Maurya Family 1</English>
+		<en-US>Maurya Family 1</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_MAURYA_FAMILY_01_TEXT</zType>
-		<English>Maurya Family 1 Text</English>
+		<en-US>Maurya Family 1 Text</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_MAURYA_FAMILY_02</zType>
-		<English>Maurya Family 2</English>
+		<en-US>Maurya Family 2</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_MAURYA_FAMILY_02_TEXT</zType>
-		<English>Maurya Family 2 Text</English>
+		<en-US>Maurya Family 2 Text</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_MAURYA_FAMILY_03</zType>
-		<English>Maurya Family 3</English>
+		<en-US>Maurya Family 3</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_MAURYA_FAMILY_03_TEXT</zType>
-		<English>Maurya Family 3 Text</English>
+		<en-US>Maurya Family 3 Text</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_MAURYA_FAMILY_04</zType>
-		<English>Maurya Family 4</English>
+		<en-US>Maurya Family 4</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_MAURYA_FAMILY_04_TEXT</zType>
-		<English>Maurya Family 4 Text</English>
+		<en-US>Maurya Family 4 Text</en-US>
 	</Entry>
 </Root>
