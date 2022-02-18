@@ -5,31 +5,51 @@
 		<Name>TEXT_FAMILY_ASSAKAS</Name>
 		<NameFemale>TEXT_FAMILY_ASSAKAS</NameFemale>
 		<iColorIndex>0</iColorIndex>
-		<Nation>NATION_MAURYA</Nation>
 		<FamilyClass>FAMILYCLASS_CLERICS</FamilyClass>
+		<abNation>
+			<Pair>
+				<zIndex>NATION_MAURYA</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abNation>
 	</Entry>
 	<Entry>
 		<zType>FAMILY_SHAKYAS</zType>
 		<Name>TEXT_FAMILY_SHAKYAS</Name>
 		<NameFemale>TEXT_FAMILY_SHAKYAS</NameFemale>
 		<iColorIndex>1</iColorIndex>
-		<Nation>NATION_MAURYA</Nation>
 		<FamilyClass>FAMILYCLASS_CHAMPIONS</FamilyClass>
+		<abNation>
+			<Pair>
+				<zIndex>NATION_MAURYA</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abNation>
 	</Entry>
 	<Entry>
 		<zType>FAMILY_IKSHVAKUS</zType>
 		<Name>TEXT_FAMILY_IKSHVAKUS</Name>
 		<NameFemale>TEXT_FAMILY_IKSHVAKUS</NameFemale>
 		<iColorIndex>2</iColorIndex>
-		<Nation>NATION_MAURYA</Nation>
 		<FamilyClass>FAMILYCLASS_PATRONS</FamilyClass>
+		<abNation>
+			<Pair>
+				<zIndex>NATION_MAURYA</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abNation>
 	</Entry>
 	<Entry>
 		<zType>FAMILY_VIVASVANAS</zType>
 		<Name>TEXT_FAMILY_VIVASVANAS</Name>
 		<NameFemale>TEXT_FAMILY_VIVASVANAS</NameFemale>
 		<iColorIndex>3</iColorIndex>
-		<Nation>NATION_MAURYA</Nation>
 		<FamilyClass>FAMILYCLASS_SAGES</FamilyClass>
+		<abNation>
+			<Pair>
+				<zIndex>NATION_MAURYA</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abNation>
 	</Entry>
 </Root>
