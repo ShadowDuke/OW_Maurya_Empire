@@ -4,6 +4,7 @@
 		<zType>FAMILY_ASSAKAS</zType>
 		<Name>TEXT_FAMILY_ASSAKAS</Name>
 		<NameFemale>TEXT_FAMILY_ASSAKAS</NameFemale>
+		<TeamColor>TEAMCOLOR_NATION_MAURYA</TeamColor>
 		<iColorIndex>0</iColorIndex>
 		<FamilyClass>FAMILYCLASS_CLERICS</FamilyClass>
 		<abNation>
@@ -17,6 +18,7 @@
 		<zType>FAMILY_SHAKYAS</zType>
 		<Name>TEXT_FAMILY_SHAKYAS</Name>
 		<NameFemale>TEXT_FAMILY_SHAKYAS</NameFemale>
+		<TeamColor>TEAMCOLOR_NATION_MAURYA</TeamColor>
 		<iColorIndex>1</iColorIndex>
 		<FamilyClass>FAMILYCLASS_CHAMPIONS</FamilyClass>
 		<abNation>
@@ -30,6 +32,7 @@
 		<zType>FAMILY_IKSHVAKUS</zType>
 		<Name>TEXT_FAMILY_IKSHVAKUS</Name>
 		<NameFemale>TEXT_FAMILY_IKSHVAKUS</NameFemale>
+		<TeamColor>TEAMCOLOR_NATION_MAURYA</TeamColor>
 		<iColorIndex>2</iColorIndex>
 		<FamilyClass>FAMILYCLASS_PATRONS</FamilyClass>
 		<abNation>
@@ -43,6 +46,7 @@
 		<zType>FAMILY_VIVASVANAS</zType>
 		<Name>TEXT_FAMILY_VIVASVANAS</Name>
 		<NameFemale>TEXT_FAMILY_VIVASVANAS</NameFemale>
+		<TeamColor>TEAMCOLOR_NATION_MAURYA</TeamColor>
 		<iColorIndex>3</iColorIndex>
 		<FamilyClass>FAMILYCLASS_SAGES</FamilyClass>
 		<abNation>
